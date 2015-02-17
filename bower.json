@@ -1,0 +1,34 @@
+{
+  "name": "projecthub",
+  "version": "1.0.0",
+  "authors": [
+    "freegyes <freegyes@gmail.com>"
+  ],
+  "description": "A hub for ambitious projects",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "backbone",
+    "underscore",
+    "jquery",
+    "sass"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/freegyes/ProjectHub",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.3.2",
+    "fontawesome": "~4.3.0",
+    "backbone": "~1.1.2",
+    "normalize.css": "~3.0.2",
+    "modernizr": "~2.8.3"
+  }
+}
