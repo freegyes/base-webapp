@@ -5,10 +5,9 @@
 
 ## in the project directory
 ````
-npm init
 npm install
 bower init
-bower install
+bower install --save bootstrap fontawesome normalize.css modernizr
 ````
 
 ## usually used bower packages
